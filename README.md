@@ -11,7 +11,7 @@ We'll use the [Kaggle challange for MovieLens 20M Dataset](https://www.kaggle.co
 
 - For the cleaning, feature engineering and the creation of the dataset look up [here](https://github.com/adfmb/tastingmovies/blob/main/0002_cleaning_and_featuring_engineering.ipynb)
 
-- For the hyperparameteres tuning, the model fit, the feature importance and the final comments check out [here](https://github.com/adfmb/tastingmovies/blob/main/0002_cleaning_and_featuring_engineering.ipynb)
+- For the hyperparameteres tuning, the model fit, the feature importance and the final comments check out [here](https://github.com/adfmb/tastingmovies/blob/main/0003_model_and_fi.ipynb)
 
 - For this first version it is important to say that it was chossen the use of:
 
