@@ -2,7 +2,7 @@
 
 A project where we could find the perfect match of cine-fan and the next movie to watch.
 
-Why? Well mainly because I love movies & love data and... who knows? maybe someone else like it also.
+Why? Well, mainly because I love movies & love data and... who knows? maybe someone else like it too.
 
 
 ## Source
